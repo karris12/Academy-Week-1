@@ -1,0 +1,9 @@
+Three Unique Features
+Feature 1: Location-based Recommendations
+Use basic location data (e.g., neighborhoods in Toronto) to suggest places nearby. You can prompt users to input their location (or choose from a list of popular spots).
+
+Feature 2: Real-time Transport Info
+Add a feature that shows transport schedules (e.g., subway, bus). You could hard-code some sample data for now, or add a "coming soon" note if you want to keep it simple.
+
+Feature 3: Hotel Price Range
+Allow users to filter hotels by price range, showing them a list of budget-friendly options based on their selected range.
